@@ -1,0 +1,8 @@
+# C++ build output
+*.exe
+*.o
+*.out
+
+# VS Code local state
+.vscode/*.log
+.vscode/.ropeproject/
